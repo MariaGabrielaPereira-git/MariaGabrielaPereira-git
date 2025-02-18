@@ -26,4 +26,4 @@ Este repositório tem como objetivo centralizar conhecimentos, projetos e docume
 ✅ Conectar-se com outros profissionais da área.
 
 ## 📬 Contato
-Caso tenha dúvidas ou queira trocar experiências, entre em contato pelo [LinkedIn](#).
+Caso tenha dúvidas ou queira trocar experiências, entre em contato pelo [[LinkedIn](https://www.linkedin.com/in/mariagabrielape/)](#).
