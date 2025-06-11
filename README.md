@@ -18,11 +18,8 @@ Aqui você encontrará exemplos de análise, otimização e automação de proce
 ## 📂 Estrutura do Repositório
 
 - 📄 **README.md** → Apresentação do repositório e principais conteúdos.
-- 📁 **cases-de-uso** → Exemplos práticos de mapeamento e otimização de processos.
-- 📁 **documentacao** → Modelos de documentação de processos, como fluxos BPMN e diagramas.
-- 📁 **automacoes** → Scripts e soluções de automação utilizando RPA, PowerApps e Python.
-- 📁 **estudos** → Materiais de estudo sobre análise de processos, metodologias e ferramentas.
-
+- 📁 **processo.md** → Modelos de documentação de processos, como fluxos BPMN e diagramas.
+- 📁 **requisitos.md** → Requisitos necessários para o projeto.
 ---
 
 ## 🛠 Habilidades Técnicas
